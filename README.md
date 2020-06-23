@@ -26,6 +26,10 @@ https://github.com/Social-Computing-Symposium/SoC2020
 
 * **お問い合わせ先**
     * soc2020-inquiry@googlegroups.com
+    
+### Zoomでの参加方法
+SoC(一般発表、招待講演)、SIGMOD-JはZoom会議システムで行う予定です。参加者・座長・発表者の皆様は無料のZoomクライアントソフトウェアの最新版(バージョン5.0.0以上 ※それ以前のバージョンは接続できません)をインストールしてください。
+Zoomオンライン会議への参加方法の詳細は、こちらの資料をご確認ください。
 
 ### 開催概要
 
