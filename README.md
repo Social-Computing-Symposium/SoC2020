@@ -23,8 +23,7 @@ https://github.com/Social-Computing-Symposium/SoC2020
 * **共催：**
     * ２件の招待講演は**SIGMOD日本支部**との共催となります。
     * 招待講演は[SIDMOG日本支部講演会](http://www.sigmodj.org/conf/detail.php?conf_no=73)に参加登録した方も聴講できます。
-
-* **お問い合わせ先**
+* **お問い合わせ先：**
     * soc2020-inquiry@googlegroups.com
     
 ### Zoomでの参加方法
